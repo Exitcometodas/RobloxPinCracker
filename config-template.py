@@ -1,10 +1,10 @@
 # This is the configuration file for the Roblox PIN Cracker script.
 
 # Your Roblox username
-username = "username"
+username = "Josegogod"
 
 # Your Roblox password
-password = "password"
+password = "Josegogod22"
 
 # The .ROBLOSECURITY cookie on the Roblox website
 cookie = "cookie"
